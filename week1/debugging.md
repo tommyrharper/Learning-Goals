@@ -1,4 +1,4 @@
-# Debugging
+# Follow an effective debugging process
 
 Yesterday we had our first debugging workshop.
 This is what I learnt.
