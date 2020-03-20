@@ -46,8 +46,6 @@ My goal today is to follow an effective debugging process
 
 # Day 3
 
-Yesterday I learned about debugging, rspec testing and pair programming skills
-
 I plan to:
 
 Setup and Improve my goal setting system
@@ -85,9 +83,13 @@ I plan to improve my TDD skills
 
 I plan to be able to explain some basic OO concepts
 
-1. Read some articles on OO programming - 20 mins
+1. Read some articles on OO programming - 20 mins - COMPLETE
 
-2. Take some notes on significant OO concepts - 30 mins
+    - I read some wiki articles and watched you informative YouTube videos on this subject and am starting to become more clear on what OOP actually is and the core concepts involved.
+
+2. Take some notes on significant OO concepts - 30 mins - COMPLETE
+
+    - I have uploaded my notes on here about OOP, and now feel I am ready to begin writing my medium article.
 
 3. Write a medium article on the above OO concepts - 1 hour
 
