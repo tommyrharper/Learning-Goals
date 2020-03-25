@@ -23,3 +23,9 @@ Toady my goal is to learn to use and use unit test classes in isolation using mo
 2. Practice using it in some simple test cases and do the birthdays [exercise](https://github.com/makersacademy/birthdays) - 1hr
 
 3. Explain doubles to someone else - 5 mins
+
+# Day 3
+
+1. Send my process workshop to video to a coach to get feedback. - 10 mins
+
+2. Do the dependency injectiion practical [exercise](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) - 1hr
