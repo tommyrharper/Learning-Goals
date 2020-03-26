@@ -18,7 +18,9 @@ A weekly journal to keep track of the work I am doing towards my goals.
 
 Toady my goal is to learn to use and use unit test classes in isolation using mocking.
 
-1. Read about doubles - 20 mins
+1. Read about doubles - 20 mins - COMPLETE
+
+    - I now have a vague idea what they are but know I need to apply to deepen my undertanding.
 
 2. Practice using it in some simple test cases and do the birthdays [exercise](https://github.com/makersacademy/birthdays) - 1hr
 
@@ -26,6 +28,29 @@ Toady my goal is to learn to use and use unit test classes in isolation using mo
 
 # Day 3
 
-1. Send my process workshop to video to a coach to get feedback. - 10 mins
+Toady my goal is to eview another person's code and give them meaningful feedback
+
+1. Send my process workshop to video to a coach to get feedback. - 40 mins - COMPLETE
+
+    - I learnt that I need to start by writing a simple domain model and input/output table.
+    - I must simplify my approach and not add unnecessary features.
+    - As soon as I notice something is redundant I should remove it.
+    - Start with the simplest test.
 
 2. Do the dependency injectiion practical [exercise](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) - 1hr
+
+3. Review someones code and give them meaningful feedback - 30 mins - COMPLETE
+
+    - I did this today in the process workshop, and was able to help someone improve their process.
+
+# Day 4
+
+Break one class into two classes that work together, while maintaining test coverage.
+
+1. Reconfigure my laptop after the system update to a new OS - 30 mins - COMPLETE
+
+    - It is now working once again. Yay!
+
+2. Look over the process worksheet and drill each step. - 30 mins
+
+3. Use that process to break one class into two classes that work together while maintaining test coverage with my pair. - 2hrs
