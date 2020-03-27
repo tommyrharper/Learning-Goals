@@ -24,7 +24,9 @@ Toady my goal is to learn to use and use unit test classes in isolation using mo
 
 2. Practice using it in some simple test cases and do the birthdays [exercise](https://github.com/makersacademy/birthdays) - 1hr
 
-3. Explain doubles to someone else - 5 mins
+3. Explain doubles to someone else - 5 mins - COMPLETE
+
+    - I was not able to communicate the idea very clearly. This revealed the depth of my lack of understanding.
 
 # Day 3
 
@@ -37,7 +39,9 @@ Toady my goal is to eview another person's code and give them meaningful feedbac
     - As soon as I notice something is redundant I should remove it.
     - Start with the simplest test.
 
-2. Do the dependency injectiion practical [exercise](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) - 1hr
+2. Do the dependency injectiion practical [exercise](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) - 1hr - HALF COMPLETE
+
+    - I have a slightly better idea how this works than yesterday but still not full comprehension
 
 3. Review someones code and give them meaningful feedback - 30 mins - COMPLETE
 
@@ -51,6 +55,18 @@ Break one class into two classes that work together, while maintaining test cove
 
     - It is now working once again. Yay!
 
-2. Look over the process worksheet and drill each step. - 30 mins
+2. Look over the process worksheet and drill each step. - 30 mins - COMPLETE
 
-3. Use that process to break one class into two classes that work together while maintaining test coverage with my pair. - 2hrs
+    - I am now more certain how my process should look and have a clearer step by step progress.
+
+3. Use that process to break one class into two classes that work together while maintaining test coverage with my pair. - 2hrs - COMPLETE
+
+    - We really learnt to communicate with one another better and make sure we each understand what each other were doing, this made for a very harmonious pair programming experience.
+
+# Day 5
+
+1. Do a process review with my coach - 40 mins
+
+2. Finish the dependency injectiion practical [exercise](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) - 1hr
+
+3. Talk to my mentor - 20 mins
