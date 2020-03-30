@@ -65,7 +65,9 @@ Break one class into two classes that work together, while maintaining test cove
 
 # Day 5
 
-1. Do a process review with my coach - 40 mins
+1. Do a process review with my coach - 40 mins - COMPLETE
+
+    - This has helped me to refine my process
 
 2. Finish the dependency injectiion practical [exercise](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) - 1hr
 
