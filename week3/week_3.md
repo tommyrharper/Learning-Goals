@@ -21,6 +21,19 @@ Toady my goal is to begin learning how to make a sinatra web application work.
 
     - I am now clear what I have to learn for the week and for today.
 
-2. Get to grips with someb basic sinatra with during pair programming - 2hrs
+2. Get to grips with someb basic sinatra with during pair programming - 2hrs - COMPLETE
 
-3. Read an article about dependency injection - 20 mins
+    - I now feel confident starting a sinatra local server up.
+
+3. Read an article about dependency injection - 20 mins - COMPLETE
+
+    - The idea is finally starting to sink in.
+
+# Day 2
+
+1. Write up notes for the process modelling workshop - 20 mins - COMPLETE
+
+    - I now understand how to do a process model.
+
+2. Get feedback from a coach on my takeaway challenge code - 15 mins
+
