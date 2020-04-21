@@ -35,5 +35,14 @@ Toady my goal is to begin learning how to make a sinatra web application work.
 
     - I now understand how to do a process model.
 
-2. Get feedback from a coach on my takeaway challenge code - 15 mins
+2. Get feedback from a coach on my takeaway challenge code - 15 mins - COMPLETE
 
+    - This opened my eyes to some way I can improve my code.
+
+# Day 4
+
+1. Write up web debugging notes - 20 mins
+
+2. Explain how the web works, write notes - 30 mins
+
+3. Explain the MVC model in notes - 30 mins
