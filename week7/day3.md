@@ -16,7 +16,7 @@ Watermelon2.0 is largely inspired by jasmine, but we developed it ourselves.
 
 It works in the console, rather than updating the actual html page.
 
-We had use functions within functions and some other interesting code to implement this.
+We had use functions within functions and object literals to make this work which was interesting.
 
 Later today I will be going to an intro to Machine Learning.
 
