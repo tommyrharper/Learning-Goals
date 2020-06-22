@@ -62,7 +62,7 @@ Think of ways to get yourself noticed.
 
 
 The guy giving the talk: Essa:
-https://www.linkedin.com/in/essasaulat/ 
+https://www.linkedin.com/in/essasaulat/
 
 Static usability bias --- something that stands out still looks classy and nice.
 
@@ -105,7 +105,7 @@ Have small realistic goals.
 http://ericpak.me
 
 
-https://share.getcloudapp.com/xQuWoke5 https://narrowdesign.com http://www.rleonardi.com/interactive-resume/ https://projects.invisionapp.com/share/6AT12ROPEWN#/screens/374391819
+https://share.getcloudapp.com/xQuWoke5https://narrowdesign.comhttp://www.rleonardi.com/interactive-resume/https://projects.invisionapp.com/share/6AT12ROPEWN#/screens/374391819
 
 
 You can reach out to him via LinkedIn -- he says he will reply. 
