@@ -1,5 +1,7 @@
 # Deloitte talk
 
+To DM Will Bentick use @W on slack you will find him.
+
 Will Bentick is the speaker.
 
 November 2014 is when he joined Deloitte.
@@ -63,6 +65,20 @@ They want you to contribute. They use Java more than anything else, it's not rea
 One of the great things about Deloitte is you can move onto something else if you don't like what you are doing.
 
 It's more important that you are able to clearly and articulately talk about your career trajectory.
+
+It's a non negotiatable salary offer. £32,000. Then you work for Makers for 12 months. You will have an executive coach at Makers, plus a limited access to course coaches. Plus an amazing community at Deloitte. Plus Makers @ Deloitte community.
+
+At the end of the 12 months they can hire you permanently if they like you.
+
+2 out of 60 people don't get a permanent job after those 12 months.
+
+If you don't like the idea of working for Deloitte for the next 3 to 5 years, they will sniff that out.
+
+'Deserve' 'Require' 'Expect' --> Don't use those words when asking for a salary.
+
+Lots of Makers make a third year grade after just 12 months. Second year grade after 12 months is expected.
+
+Deloitte has a firm wide hiring freeze until September.
 
 ## Roles
 
