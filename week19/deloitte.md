@@ -50,6 +50,18 @@ Deloitte and Thoughtworks are the best places to do tech consulting.
 
 When you are travelling, they will pay for everything.
 
+It's not just about being proactive and taking the iniatitive, it's also about your ability to deal with clients. They also place great value on your having a clear vision of your career trajectory.
+
+1 year you are a contractor for Makers, then Deloitte employ you.
+
+Most work is app development.
+
+## Hiring process
+
+Makers are always trying to get the most people hired at Deloitte.
+
+There is no tech test.
+
 ### Questions
 
 What sort of support is there for Junior Developers at Deloitte.
