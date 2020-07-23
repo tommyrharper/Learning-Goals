@@ -27,3 +27,11 @@ Short courses - Java Essentials, React Fundamentals
 ## Check if you are still eligibile according to the JOG
 
 jobguarantee@makers.tech
+
+## Apprenticeships
+
+Companies get taxed a portion of their payrole, and they can only spend it on things like training/apprenticeships.
+
+### Notes
+
+Claudia Harris is the CEO
