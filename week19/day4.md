@@ -9,4 +9,4 @@ Today I:
 - I also psyched myself up for the interview so I could be my most confident self, and go in with the right mindset.
 - I had a 1 hour interview with the CEO of Twine.
 - Installed exercism for coding interview prep.
-- Spent 2 hours doing code wars katas in Ruby to train for potentially upcoming tech test.
+- Spent 3 hours doing code wars katas in Ruby to train for potentially upcoming tech test.
