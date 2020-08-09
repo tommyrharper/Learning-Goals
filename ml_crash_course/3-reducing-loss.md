@@ -24,7 +24,14 @@ This is where you start your gradient descent.
   - Convex -> bowl shaped, one minimum.
 - Foreshadowing: not true for nerual nets.
   - Non convex -> think of an egg crate, more than 1 minimum.
-  - Strong dependency on initial values.
+  - Strong dependency on initial values.cod
 
 ## SGD and Mini-Batch Gradient descent.
+
+- Could compute gradient over entire data set, not necessary -> SLOW - lots of computation
+- Computing gradient on small data samples works well
+  - On each step get a new random sample
+- Stochastic Gradient Descent: once example at a time - oposite of computing over entire dataset
+- Mini-Batch Gradient Descent: batches of 10-1000 -> faster compromise.
+  - Loss & gradients are averaged over the batch
 
